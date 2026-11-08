@@ -1,0 +1,59 @@
+form {
+    background-color: #ffffff;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+}
+.enter {
+    font-weight: 400;
+    font-size: 18px;
+}
+.enter a {
+    font-weight: 400;
+    font-size: 18px;
+    color: #089FE0;
+}
+
+.company {
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+.firstname {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.lastname {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.email {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.register {
+    font-weight: 400;
+    font-size: 18px;
+    background-color: #089FE0;
+    color: #ffffff;
+}
+
+.agree {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.conditions {
+    font-weight: 400;
+    font-size: 18px;
+    color: #089FE0;
+}
