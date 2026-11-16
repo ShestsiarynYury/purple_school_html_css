@@ -1,0 +1,102 @@
+body {
+    background-image: linear-gradient(#374151, #111827);
+    margin: 0px;
+    padding: 0px;
+}
+
+header, main {
+    margin: 0 auto;
+}
+
+header {
+    height: 180px;
+}
+
+nav a, header button {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+article h1 {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    font-family: "Roboto", serif;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    background-color: #4B5563;
+    color: white;
+    line-height: 35px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600px;
+}
+
+.search {
+    width: 224px;
+    height: 40px;
+    background-color: #1F293799;
+    border-radius: 1px solid black;
+    border-radius: 16px;
+}
+
+.author {
+    margin: 30px;
+}
+
+main article img {
+    margin: 28px auto;
+}
+
+main article img + .first {
+    margin: 70px auto;
+}
+
+.person {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Roboto", serif;
+}
+
+.position {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Roboto", serif;
+}
+
+.first {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Roboto", serif;
+}
+
+.second, .third {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: "Roboto", serif;
+}
+
+footer {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Roboto", serif;
+}
