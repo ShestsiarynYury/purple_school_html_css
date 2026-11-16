@@ -57,7 +57,7 @@ main article img {
     margin: 28px auto;
 }
 
-main article img .first {
+main article img + .first {
     margin: 70px auto;
 }
 
