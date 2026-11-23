@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #FFA5A5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    background-color: #ffffff;
+    width: 582px;
+    height: 572px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.enter {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.enter a {
+    font-weight: 400;
+    font-size: 18px;
+    color: #089FE0;
+}
+
+.company, .firstname, .lastname, .email, .register {
+    width: 392px;
+    height: 44px;
+    border-radius: 5px;
+    margin-bottom: 22px;
+}
+
+.register + div {
+    margin-bottom: 22px;
+}
+
+.company {
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+.firstname {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.lastname {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.email {
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #999999;
+}
+
+.register {
+    font-weight: 400;
+    font-size: 18px;
+    background-color: #089FE0;
+    color: #ffffff;
+}
+
+.agree {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.conditions {
+    font-weight: 400;
+    font-size: 18px;
+    color: #089FE0;
+}
